@@ -1,7 +1,7 @@
 Jdecoin integration/staging tree
 ================================
 
-http://www.jdeco.in
+http://www.jdecoin.net
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Ltecoin Developers
@@ -21,7 +21,7 @@ The rest is the same as Bitcoin and Litecoin, combined.
  - 2021 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Jdecoin client sofware, see http://www.jdeco.in.
+the Jdecoin client sofware, see http://www.jdecoin.net.
 
 License
 -------
