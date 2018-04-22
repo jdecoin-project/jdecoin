@@ -47,6 +47,9 @@ script: |
   cp release/jdecoin-qt.exe $OUTDIR/
   #
   cd src
+  cd leveldb
+  chmod +x build_detect_platform
+  cd ..
   export LD_PRELOAD=/usr/lib/faketime/libfaketime.so.1
   export FAKETIME=$REFERENCE_DATETIME
   export TZ=UTC
