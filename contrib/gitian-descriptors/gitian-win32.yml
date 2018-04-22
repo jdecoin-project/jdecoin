@@ -37,8 +37,10 @@ script: |
   git archive HEAD | tar -x -C $OUTDIR/src
   cp $OUTDIR/src/doc/README_windows.txt $OUTDIR/readme.txt
   cp $OUTDIR/src/COPYING $OUTDIR/COPYING.txt
+  cd src
   cd leveldb
   chmod +x build_detect_platform
+  cd ..
   cd ..
   git status
   git add *
