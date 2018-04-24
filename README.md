@@ -10,11 +10,10 @@ Copyright (c) 2018 JDECoin Developers
 What is Jdecoin?
 ----------------
 
-Jdecoin is a tweak combined of Bitcoin and Litecoin using scrypt as a proof-of-work algorithm.
+Jdecoin is a tweak version of Bitcoin and Litecoin using scrypt as a proof-of-work algorithm.
  - premined coins
  - 20 sec block targets
  - subsidy halves in 4,665,600  blocks (~3 years)
- - +77 billion total coins
  - 200 coins per block
  - 2021 blocks to retarget difficulty
 
@@ -30,9 +29,6 @@ submit new unit tests for old code.
 Unit tests for the core code are in `src/test/`. To compile and run them:
 
     cd src/
-    cd leveldb/
-    chmod +x build_detect_platform
-    cd ..
     make -f makefile.unix test
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
