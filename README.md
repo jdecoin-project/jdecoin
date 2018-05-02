@@ -13,12 +13,12 @@ What is Jdecoin?
 Jdecoin is a tweak version of Bitcoin and Litecoin using scrypt as a proof-of-work algorithm.
  - premined coins
  - 20 sec block targets
- - subsidy halves in 4,665,600  blocks (~3 years)
+ - subsidy halves in 50,000 blocks (~3 years)
  - 200 coins per block
  - 2021 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Jdecoin client sofware, see http://www.jdecoin.net.
+the Jdecoin client software, see http://www.jdecoin.net.
 
 
 # Automated Testing
