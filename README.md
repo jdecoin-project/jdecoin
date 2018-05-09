@@ -9,8 +9,16 @@ Copyright (c) 2018 JDECoin Developers
 
 What is Jdecoin?
 ----------------
+JDEcoin, an internet currency runs on scrypt algorithm. Functions and security features are the same as other known decentralized cryptocurrencies. You can find the waller installer for Windows here.
 
-Jdecoin is a tweak version of Bitcoin and Litecoin using scrypt as a proof-of-work algorithm.
+It was developed by a group of developers and analyst as well as crypto lovers to contribute to the improvement of the structure of the crypto community. JDecoin technology draws inspiration from the well-known Bitcoin and Litecoin and with enhanced security measures for better safekeeping.
+
+Predominantly, 80% of the JDEcoin is already premined in keeping with the emerging trend as the smart contracts or ICOs.
+
+Further, the premined coins are intended for development and marketing purposes --airdrops and bounties.And speaking of incentives, this will prove superior over ICOs in terms of incentivizing development teams.
+
+The main core is the decentralization which enables to share and fosters freedom currently dominated by few.
+
  - premined coins
  - 20 sec block targets
  - subsidy halves in 50,000 blocks (~3 years)
