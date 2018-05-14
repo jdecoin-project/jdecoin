@@ -14,8 +14,8 @@ packages:
 
 reference_datetime: "2014-01-10 00:00:00"
 remotes:
-- "url": "https://github.com/darkcoin/darkcoin.git"
-  "dir": "straks"
+- "url": "https://github.com/jdecoin-project/jdecoin.git"
+  "dir": "jdecoin"
 files:
 - "osx-native-depends-r3.tar.gz"
 - "osx-depends-r7.tar.gz"
